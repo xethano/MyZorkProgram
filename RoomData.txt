@@ -1,0 +1,6 @@
+1,-1,-1,3,2
+The Main Lobby of the house. There is a locked door behind you and two hallways, one to each side of you.
+2,-1,-1,-1,1
+The West Hallway:A Dimly lit hallway, cant see anything of importance in here.
+3,-1,-1,1,-1
+The East Hallway:A lengthy hallway of ornate tiles with a mysterious painting hanging askew on the left wall.

@@ -1,0 +1,9 @@
+1,1,10,100,0.05,1
+Stick
+A stick lying on the floor, can't do much with this.
+2,1,10,100,0.1,1
+Lantern
+A slightly-worn lantern that radiates a hazy yellow light that is just bright enough to see with.
+3,3,5,100,0,1
+Mysterious Painting
+A mysterious looking painting located in the east hallway, it does not seem like it belongs there. It depicts a man fishing off of a cliffside.
